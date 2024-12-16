@@ -4,9 +4,11 @@ Bienvenue sur le projet TypeScript avec Node.js ! Ce projet est conçu pour vous
 
 ## Prérequis
 1. Node.js : Assurez-vous d'avoir Node.js installé sur votre système. Vous pouvez le vérifier en utilisant la commande suivante :
+```
+node -v
+pnpm -v (ou npm)
+```
 
-    node -v
-    pnpm -v (ou npm)
 
 ## Installation
 
@@ -18,7 +20,7 @@ Cela répondra à toutes les questions par défaut.
 
 2. Installez TypeScript comme dépendance de développement :
 
-- pnpm install typescript --save-dev
+```pnpm install typescript --save-dev```
 
 ## Configurez TypeScript :
 
@@ -54,6 +56,7 @@ Cela créera un fichier index.js dans dist prêt à être exécuté.
 - Pour lancer l'application, utilisez Node.js pour exécuter le fichier index.js dans le dossier dist :
 
 ```node dist/index.js```
+
 4. Commandes Utiles
 
 - Compiler TypeScript : [npx tsc] - Compile tous les fichiers TypeScript dans src et génère des fichiers .js dans dist.
