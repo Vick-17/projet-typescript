@@ -1,6 +1,6 @@
 # Projet TypeScript avec Node.js
 
-    Bienvenue sur le projet TypeScript avec Node.js ! Ce projet est conçu pour vous permettre de démarrer facilement avec TypeScript tout en utilisant Node.js comme environnement d'exécution. Suivez les étapes ci-dessous pour installer, configurer et exécuter le projet.
+Bienvenue sur le projet TypeScript avec Node.js ! Ce projet est conçu pour vous permettre de démarrer facilement avec TypeScript tout en utilisant Node.js comme environnement d'exécution. Suivez les étapes ci-dessous pour installer, configurer et exécuter le projet.
 
 ## Prérequis
 1. Node.js : Assurez-vous d'avoir Node.js installé sur votre système. Vous pouvez le vérifier en utilisant la commande suivante :
